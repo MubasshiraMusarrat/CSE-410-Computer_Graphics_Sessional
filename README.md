@@ -34,7 +34,7 @@ For further details on the implementation and concepts, refer to the documentati
 
 ## Problem-2: Rasterization
 
-[Problem Specification](./Offline-2/Offline 2 Specifications.pdf)  
+[Problem Specification](./Offline-2/Offline-2_Specifications.pdf)  
 [My Solution](./Offline-2/1905088)
 
 ### 🎥 Demonstration 
