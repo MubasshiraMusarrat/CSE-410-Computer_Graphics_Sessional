@@ -17,11 +17,12 @@ For further details on the implementation and concepts, refer to the documentati
 [My Solution](./Offline-1/1905088/)  
 
 ### 🎥 Demonstration  
+![Rolling_Ball-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6723c104-a626-46f9-8acf-82a9b2a67f11)
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/cd38f878-eebc-403e-ba6f-8e4e4991bcb5" width="450" alt="Rolling Ball">
+      <img src="https://github.com/user-attachments/assets/6723c104-a626-46f9-8acf-82a9b2a67f11" width="450" alt="Rolling Ball">
       <br><b>Rolling Ball</b>
     </td>
     <td align="center">
