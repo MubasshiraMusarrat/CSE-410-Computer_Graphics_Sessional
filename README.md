@@ -21,7 +21,7 @@ For further details on the implementation and concepts, refer to the documentati
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./offline-1/demo1.gif" width="450" alt="Rolling Ball">
+      <img src="https://github.com/user-attachments/assets/cd38f878-eebc-403e-ba6f-8e4e4991bcb5" width="450" alt="Rolling Ball">
       <br><b>Rolling Ball</b>
     </td>
     <td align="center">
