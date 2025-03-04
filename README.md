@@ -21,11 +21,11 @@ For further details on the implementation and concepts, refer to the documentati
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6723c104-a626-46f9-8acf-82a9b2a67f11" width="300" alt="Rolling Ball">
+      <img src="https://github.com/user-attachments/assets/6723c104-a626-46f9-8acf-82a9b2a67f11" width="350" alt="Rolling Ball">
       <br><b>Rolling Ball</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/2d0bdc06-1157-472a-b413-a2f80a7ac687" width="300" alt="Magic Cube">
+      <img src="https://github.com/user-attachments/assets/2d0bdc06-1157-472a-b413-a2f80a7ac687" width="350" alt="Magic Cube">
       <br><b>Magic Cube</b>
     </td>
   </tr>
