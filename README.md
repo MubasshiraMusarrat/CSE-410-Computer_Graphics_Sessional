@@ -17,7 +17,6 @@ For further details on the implementation and concepts, refer to the documentati
 [My Solution](./Offline-1/1905088/)  
 
 ### 🎥 Demonstration  
-![Rolling_Ball-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6723c104-a626-46f9-8acf-82a9b2a67f11)
 
 <table align="center">
   <tr>
