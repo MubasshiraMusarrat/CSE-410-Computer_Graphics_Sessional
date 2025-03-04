@@ -89,3 +89,11 @@ For further details on the implementation and concepts, refer to the documentati
 </table>
 
 
+## Problem-3: Ray Tracing
+
+[Problem Specification](./Offline-3/CSE-410_Offline-3_Specs-updated.pdf)  
+[My Solution](./Offline-3/1905088)
+
+**🎥 Demonstration**
+
+![Sample Output](./Offline-3/Sample_Output.bmp)
