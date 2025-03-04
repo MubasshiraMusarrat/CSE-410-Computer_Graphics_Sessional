@@ -36,20 +36,23 @@ For further details on the implementation and concepts, refer to the documentati
 ### :dash: Online
 
 **🎥 Demonstration**
-  
+  ![A1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0d44b4e4-6c28-4d27-840a-f57b86d0a887)
+![B1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/83487ee4-692e-4736-9d99-068aa20cce7d)
+![A2_B2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/29f5ca67-5d68-45bb-a915-bd1e18eea464)
+
 <table>
   <tr>
     <td align="center">
-      <img src="./offline-1/result1.png" width="250" alt="Result 1">
+      <img src="https://github.com/user-attachments/assets/0d44b4e4-6c28-4d27-840a-f57b86d0a887" width="250" alt="Result 1">
       <br><b>A1</b>
     </td>
     <td align="center">
-      <img src="./offline-1/result2.png" width="250" alt="Result 2">
+      <img src="https://github.com/user-attachments/assets/83487ee4-692e-4736-9d99-068aa20cce7d" width="250" alt="Result 2">
       <br><b>B1</b>
       <br><a href="./Online-1/B1/1905088.cpp">📂 View Solution</a>
     </td>
     <td align="center">
-      <img src="./offline-1/result3.png" width="250" alt="Result 3">
+      <img src="https://github.com/user-attachments/assets/29f5ca67-5d68-45bb-a915-bd1e18eea464" width="250" alt="Result 3">
       <br><b>A2 & B2</b>
     </td>
   </tr>
