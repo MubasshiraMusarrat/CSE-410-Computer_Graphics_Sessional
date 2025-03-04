@@ -12,14 +12,8 @@ Refer to the setup guide:
 For further details on the implementation and concepts, refer to the documentation:  
 - [Documentation 1](./glut-3.spec.pdf)  
 - [Documentation 2](./redbook.pdf)  
-
-
-### 📄 Problem Specification  
-The detailed problem statement can be found here:  
+  
 [Problem Specification](./Offline-1/Specification.pdf)  
-
-### 🖥️ My Solution  
-The implementation of my solution is available in the `offline-1/1905088` folder:  
 [My Solution](./Offline-1/1905088/)  
 
 ### 🎥 Demonstration  
