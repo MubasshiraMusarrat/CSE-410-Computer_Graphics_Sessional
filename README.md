@@ -32,3 +32,36 @@ For further details on the implementation and concepts, refer to the documentati
 </table>
 
 
+## Problem-2: Rasterization
+
+[Problem Specification](./Offline-2/Offline 2 Specifications.pdf)  
+[My Solution](./Offline-2/1905088)
+
+### 🎥 Demonstration 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Offline-2/IOs/1/out.bmp" width="200" alt="Result 1">
+      <br><b>Result 1</b>
+    </td>
+    <td align="center">
+      <img src="./Offline-2/IOs/2/out.bmp" width="200" alt="Result 2">
+      <br><b>Result 2</b>
+    </td>
+    <td align="center">
+      <img src="./Offline-2/IOs/3/out.bmp" width="200" alt="Result 3">
+      <br><b>Result 3</b>
+    </td>
+    <td align="center">
+      <img src="./Offline-2/IOs/4/out.bmp" width="200" alt="Result 4">
+      <br><b>Result 4</b>
+    </td>
+    <td align="center">
+      <img src="./Offline-2/IOs/5/out.bmp" width="200" alt="Result 5">
+      <br><b>Result 5</b>
+    </td>
+  </tr>
+</table>
+
+
