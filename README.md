@@ -1,5 +1,9 @@
 # Computer Graphics Sessional (OpenGL & C++)
 
+
+https://github.com/user-attachments/assets/64f4093c-d466-439e-a98c-4f01d85c5a30
+
+
 This repository contains projects from my computer graphics sessional, implemented using OpenGL and basic C++ for rasterization and ray tracing.
 
 ## Problem-1: OpenGL Implementation  
