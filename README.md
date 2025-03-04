@@ -12,6 +12,8 @@ For further details on the implementation and concepts, refer to the documentati
 - [Documentation 1](./glut-3.spec.pdf)  
 - [Documentation 2](./redbook.pdf)  
   
+## :dash: Offline
+
 [Problem Specification](./Offline-1/Specification.pdf)  
 [My Solution](./Offline-1/1905088/)  
 
@@ -29,6 +31,9 @@ For further details on the implementation and concepts, refer to the documentati
     </td>
   </tr>
 </table>
+
+
+## :neckbeard: Online
 
 
 ## Problem-2: Rasterization
