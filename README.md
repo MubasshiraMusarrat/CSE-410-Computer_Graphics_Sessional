@@ -1,7 +1,6 @@
 # Computer Graphics Sessional (OpenGL & C++)
 
-
-https://github.com/user-attachments/assets/64f4093c-d466-439e-a98c-4f01d85c5a30
+![2025-03-04-20-07-15](https://github.com/user-attachments/assets/351c658f-1b82-4327-a396-22fe23698207)
 
 
 This repository contains projects from my computer graphics sessional, implemented using OpenGL and basic C++ for rasterization and ray tracing.
