@@ -18,7 +18,7 @@ For further details on the implementation and concepts, refer to the documentati
 
 ### 🎥 Demonstration  
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/6723c104-a626-46f9-8acf-82a9b2a67f11" width="400" alt="Rolling Ball">
