@@ -21,11 +21,11 @@ For further details on the implementation and concepts, refer to the documentati
 <table>
   <tr>
     <td align="center">
-      <img src="./offline-1/demo1.gif" width="300" alt="Rolling Ball">
+      <img src="./offline-1/demo1.gif" width="500" alt="Rolling Ball">
       <br><b>Rolling Ball</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/2d0bdc06-1157-472a-b413-a2f80a7ac687" width="300" alt="Magic Cube">
+      <img src="https://github.com/user-attachments/assets/2d0bdc06-1157-472a-b413-a2f80a7ac687" width="500" alt="Magic Cube">
       <br><b>Magic Cube</b>
     </td>
   </tr>
