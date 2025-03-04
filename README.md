@@ -18,8 +18,8 @@ For further details on the implementation and concepts, refer to the documentati
 
 ### 🎥 Demonstration  
 
-<table>
-  <tr align="center">
+<table align="center">
+  <tr>
     <td align="center">
       <img src="./offline-1/demo1.gif" width="400" alt="Rolling Ball">
       <br><b>Rolling Ball</b>
