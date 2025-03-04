@@ -36,9 +36,6 @@ For further details on the implementation and concepts, refer to the documentati
 ### :dash: Online
 
 **🎥 Demonstration**
-  ![A1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0d44b4e4-6c28-4d27-840a-f57b86d0a887)
-![B1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/83487ee4-692e-4736-9d99-068aa20cce7d)
-![A2_B2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/29f5ca67-5d68-45bb-a915-bd1e18eea464)
 
 <table>
   <tr>
