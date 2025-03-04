@@ -1,13 +1,13 @@
 # Computer Graphics Sessional (OpenGL & C++)
 This repository contains projects from my computer graphics sessional, implemented using OpenGL and basic C++ for rasterization and ray tracing.
 
-## Problem-1: OpenGL Implementation  
+### Problem-1: OpenGL Implementation  
 
-### 📌 Setup Instructions  
+## 📌 Setup Instructions  
 Refer to the setup guide:  
 [Setup Guide](./Setting_Up_OpenGL.pdf)  
 
-### 📚 Documentation  
+## 📚 Documentation  
 For further details on the implementation and concepts, refer to the documentation:  
 - [Documentation 1](./glut-3.spec.pdf)  
 - [Documentation 2](./redbook.pdf)  
@@ -17,7 +17,7 @@ For further details on the implementation and concepts, refer to the documentati
 [Problem Specification](./Offline-1/Specification.pdf)  
 [My Solution](./Offline-1/1905088/)  
 
-### 🎥 Demonstration  
+# 🎥 Demonstration  
 
 <table>
   <tr>
@@ -35,13 +35,33 @@ For further details on the implementation and concepts, refer to the documentati
 
 ## :dash: Online
 
+# 🎥 Demonstration 
+  
+<table>
+  <tr>
+    <td align="center">
+      <img src="./offline-1/result1.png" width="250" alt="Result 1">
+      <br><b>A1</b>
+    </td>
+    <td align="center">
+      <img src="./offline-1/result2.png" width="250" alt="Result 2">
+      <br><b>B1</b>
+      <br><a href="./Online-1/B1/1905088.cpp">📂 View Solution</a>
+    </td>
+    <td align="center">
+      <img src="./offline-1/result3.png" width="250" alt="Result 3">
+      <br><b>A2 & B2</b>
+    </td>
+  </tr>
+</table>
 
-## Problem-2: Rasterization
+
+### Problem-2: Rasterization
 
 [Problem Specification](./Offline-2/Offline-2_Specifications.pdf)  
 [My Solution](./Offline-2/1905088)
 
-### 🎥 Demonstration 
+# 🎥 Demonstration 
 
 <table>
   <tr>
